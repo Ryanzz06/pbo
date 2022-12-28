@@ -6,7 +6,7 @@ print("Nama     :   Muh Ryan Nurwangsah")
 print("NIM      :   D0221302")
 print("kelas    :   INFORMATIKA H")
 
-import math #utk mendapat nilai pi, digunakan dalam menghitung luas/volume tabung
+import math #untuk mendapat nilai pi, digunakan dalam menghitung luas atau volume tabung
 
 #parent class
 class BangunRuang:
